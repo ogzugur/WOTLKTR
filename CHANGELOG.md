@@ -6,10 +6,12 @@ Biçim [Keep a Changelog](https://keepachangelog.com/tr/) esinlidir; sürümleme
 ## [Yayımlanmadı]
 
 ### Düzeltildi
-- Görev çevirilerinde (`QuestData_TR.lua`) 585 görevde 695 yüksek önemli düzeltme: anlamı bozan veya
-  ters çeviren cümleler, yanlış/başka görevden kopyalanmış metinler, çevrilmiş kişi/yer/fraksiyon
-  adları, bozuk `$N` / `$g` yer tutucuları ve boş bırakılmış 15 alan. Tüm öneriler (orta ve düşük
-  önemli olanlar dahil) `.github/raporlar/Gorev_Duzeltme_Raporu.xlsx` dosyasında incelemeye açıktır.
+- Görev çevirilerinde (`QuestData_TR.lua`) 8.168 görevde 32.086 düzeltme (tüm görevlerin yaklaşık %93'ü):
+  anlamı bozan veya ters çeviren cümleler, yanlış/başka görevden kopyalanmış metinler, çevrilmiş
+  kişi/yer/fraksiyon/ırk/sınıf adları, sen/siz tutarsızlıkları, hedeflerde çoğul emir kipi, bozuk
+  `$N` / `$g` yer tutucuları ve boş bırakılmış alanlar. Önem derecesine göre 695 yüksek, 24.508 orta
+  ve 6.883 düşük önemli öneri uygulandı. Tüm öneriler gerekçeleriyle birlikte
+  `.github/raporlar/Gorev_Duzeltme_Raporu.xlsx` dosyasındadır.
 
 ## [1.0.1] — 2026-07-03
 
