@@ -12,6 +12,11 @@ Biçim [Keep a Changelog](https://keepachangelog.com/tr/) esinlidir; sürümleme
   `$N` / `$g` yer tutucuları ve boş bırakılmış alanlar. Önem derecesine göre 695 yüksek, 24.508 orta
   ve 6.883 düşük önemli öneri uygulandı. Tüm öneriler gerekçeleriyle birlikte
   `.github/raporlar/Gorev_Duzeltme_Raporu.xlsx` dosyasındadır.
+- Büyü, talent ve glyph açıklamalarında 1.085 şablon düzeltildi (`Spells_TR.lua`, `Talents_Tmpl_TR.lua`,
+  `Glyphs_TR.lua`; per-rank `Talents_TR.lua` şablonlardan yeniden üretildi): yanlış özne ve mekanik
+  hataları (Insect Swarm, Binding Heal, Sap vb.), yer değiştirmiş sayı yer tutucuları, Stun/Daze
+  ayrımı, "caster = büyücü" karışıklığı, Dodge=kaçınma, tek biçimli terimler (can, yard, raid, kombo
+  puanı, yük) ve sen/siz birliği. Ayrıntı: `.github/raporlar/Buyu_Talent_Glyph_Duzeltme_Raporu.xlsx`.
 
 ## [1.0.1] — 2026-07-03
 
