@@ -3,6 +3,14 @@
 Bu projedeki önemli değişiklikler burada listelenir.
 Biçim [Keep a Changelog](https://keepachangelog.com/tr/) esinlidir; sürümleme [SemVer](https://semver.org/lang/tr/) uyumludur.
 
+## [Yayımlanmadı]
+
+### Düzeltildi
+- Görev çevirilerinde (`QuestData_TR.lua`) 585 görevde 695 yüksek önemli düzeltme: anlamı bozan veya
+  ters çeviren cümleler, yanlış/başka görevden kopyalanmış metinler, çevrilmiş kişi/yer/fraksiyon
+  adları, bozuk `$N` / `$g` yer tutucuları ve boş bırakılmış 15 alan. Tüm öneriler (orta ve düşük
+  önemli olanlar dahil) `.github/raporlar/Gorev_Duzeltme_Raporu.xlsx` dosyasında incelemeye açıktır.
+
 ## [1.0.1] — 2026-07-03
 
 ### Düzeltildi
