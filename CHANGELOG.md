@@ -6,7 +6,7 @@ Biçim [Keep a Changelog](https://keepachangelog.com/tr/) esinlidir; sürümleme
 ## [Yayımlanmadı]
 
 ### Düzeltildi
-- Görev çevirilerinde (`QuestData_TR.lua`) 8.168 görevde 32.086 düzeltme (tüm görevlerin yaklaşık %93'ü):
+- Görev çevirilerinde (`QuestData_TR.lua`) 8.184 görevde (%93) 20.219 alanda 32.086 düzeltme:
   anlamı bozan veya ters çeviren cümleler, yanlış/başka görevden kopyalanmış metinler, çevrilmiş
   kişi/yer/fraksiyon/ırk/sınıf adları, sen/siz tutarsızlıkları, hedeflerde çoğul emir kipi, bozuk
   `$N` / `$g` yer tutucuları ve boş bırakılmış alanlar. Önem derecesine göre 695 yüksek, 24.508 orta
